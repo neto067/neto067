@@ -1,4 +1,4 @@
-# Hi there! I'm Guilherme Oliveira 👋
+# Hi there! I'm Roberto Bastos 👋
 
 I am a technology enthusiast, passionate about innovation and developing smart solutions. Currently, I am balancing my academic journey at **UNIFEI** (Science and Technology) and **UNISAL** (Computer Engineering), while working as an IT Systems intern at **Apolo Tubulars**.
 
