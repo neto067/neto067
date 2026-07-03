@@ -16,14 +16,6 @@ I am a technology enthusiast, passionate about innovation and developing smart s
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-* **Languages:** `Python`, `SQL`, `C++`
-* **Systems & Cloud:** `Microsoft Azure`, `Windows Server`
-* **Tools:** `Git`, `Power BI`, `Advanced Excel`
-
----
-
 ### 🚀 What Drives Me
 * Transforming complex problems into efficient code solutions.
 * Deepening my knowledge in **AI and Data Science**.
